@@ -74,3 +74,13 @@ fully backed by BNB collateral.
 - over colateralized with decentralized assets and liquidity-staked assets
 - "broadly stable" instead of absolute, backed or algorithmic , similar to
 "normal fiat"
+
+## AMO
+
+- Algorithmic Market Operation
+- Similar to curve fiance monetary policies
+[formula](https://docs.bsc.lista.org/introduction/collateral-debt-position/lisusd/algorithmic-market-operations-amo#the-formula-for-calculating-the-borrowing-interest-rate-r-is-as-follows)
+- Borrow rate calculated dynamically based on market price (live through oracle)
+	* Also affected by some parameters set in contracts
+	* Set at deployment based on "market conditions", later changed through governance processes
+	
