@@ -26,8 +26,13 @@ De-fi with the same capital
 ### Liquid staking Tokens (LSTs)
 
 - tokenized version of PoS: earn PoS reward without losing access to liquidity
-- trade, sell, or use "assets" while they are still staked
+- trade, sell, or use "capital" while they are still staked
 - 1:1 ratio to staked assets
+
+- stake BNB for slisBNB
+	* ListaDao distribute this BNB to validators
+	* Validators use this BNB in PoS for reward, keeping 95%
+	* Remaining 5% goes to ListaDao, which in turn rewards staker with slisBNB
 
 ### Liquid restaking tokens (LRTs)
 
