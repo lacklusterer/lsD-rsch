@@ -30,9 +30,9 @@ De-fi with the same capital
 - 1:1 ratio to staked assets
 
 - stake BNB for slisBNB
-	* ListaDao distribute this BNB to validators
-	* Validators use this BNB in PoS for reward, keeping 95%
-	* Remaining 5% goes to ListaDao, which in turn rewards staker with slisBNB
+	* Delegate BNB to ListaDao's validator
+	* Validators use this BNB in PoS for reward, keeping 5%
+	* Remaining 95% goes to slisBNB holder in form of slisBNB/BNB exchange rate
 
 ### Liquid restaking tokens (LRTs)
 
