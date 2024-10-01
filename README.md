@@ -3,6 +3,8 @@
 > Focus: Why Lista DAO, what makes it different from existing models
 > What / how can Investors, Casual users, developer do with / benefit from it?
 
+[presentation](https://github.com/lacklusterer/lsD-rsch/blob/main/presentation.md)
+
 Lista DAO main focus is collateralized debt postion stable coin (CDP) and liquidity staking
 
 ## Some problems:
