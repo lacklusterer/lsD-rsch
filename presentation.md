@@ -30,7 +30,7 @@ ex:
 r0 = 8%, Price(lisUSD) = $0.98, Beta = 2%
 r = 8% * exp[(1 - 0.98)/2%] = 21.746% 
 
-This means if the price of lisUSD is $0.98, with  r0 = 8%  and Beta = 2% , the current borrowing rate will be 21.746%. Users will repay lisUSD, reducing the supply.
+This means if the price of lisUSD is $0.98, with  r0 = 8%  and Beta = 2% , the current borrowing rate will be 21.746%. Users will repay (burn) lisUSD, reducing the supply.
 
 ## why lista dao
 
@@ -46,4 +46,5 @@ tried-and-true by MakerDAO:
 # Additional readings:
 
 https://www.gate.io/learn/articles/introduction-to-lista-dao/3382
+
 https://docs.bsc.lista.org/
