@@ -17,13 +17,14 @@ Lista DAO main focus is collateralized debt postion stable coin (CDP) and liquid
 
 ## CDP
 
-- Benefit from assets without having to sell (for example, selling assets to a
+- Access liquidity without having to sell (for example, selling assets to a
 DEX to provide liquidity)
 - "Lock" them instead, still "owning" them
 - Stake assets -> borrow lisUSD
 - "Doubles" the ultility of capital: Earn stake reward and still participate in
 De-fi with the same capital
-- May have asset liquidated if debt
+- May have asset liquidated if debt, have to pay borrow interest
+- Incentive: Make a profit from borrowed asset to offset
 
 ### Liquid staking Tokens (LSTs)
 
@@ -34,7 +35,10 @@ De-fi with the same capital
 - stake BNB for slisBNB
 	* Delegate BNB to ListaDao's validator
 	* Validators use this BNB in PoS for reward, keeping 5%
-	* Remaining 95% goes to slisBNB holder in form of slisBNB/BNB exchange rate
+	* Remaining goes to slisBNB holder in form of slisBNB/BNB exchange rate
+
+- Incentive: Earn yield from capital, and still use token from that capital in
+other protocols
 
 ### Liquid restaking tokens (LRTs)
 
