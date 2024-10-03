@@ -29,6 +29,7 @@ debt positions.
 ex:
 r0 = 8%, Price(lisUSD) = $0.98, Beta = 2%
 r = 8% * exp[(1 - 0.98)/2%] = 21.746% 
+
 This means if the price of lisUSD is $0.98, with  r0 = 8%  and Beta = 2% , the current borrowing rate will be 21.746%. Users will repay lisUSD, reducing the supply.
 
 ## why lista dao
