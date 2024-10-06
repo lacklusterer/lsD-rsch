@@ -10,8 +10,6 @@
 - Earn yield with 2 primary ways: liquidity staking and over-collateralized
 debt positions.
 
-# Why lista dao?
-
 ## Some defi:
 
 - Destable coin lisUSD : [click me](https://github.com/lacklusterer/lsD-rsch/blob/main/README.md#destable-coin)
@@ -32,7 +30,7 @@ r = 8% * exp[(1 - 0.98)/2%] = 21.746%
 
 This means if the price of lisUSD is $0.98, with  r0 = 8%  and Beta = 2% , the current borrowing rate will be 21.746%. Users will repay (burn) lisUSD, reducing the supply.
 
-## why lista dao
+# why lista dao
 
 - over-collateralized stable coin and liquidity staking are successful model
 tried-and-true by MakerDAO:
