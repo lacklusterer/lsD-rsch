@@ -10,7 +10,25 @@
 - Earn yield with 2 primary ways: liquidity staking and over-collateralized
 debt positions.
 
-## Some defi:
+# why lista dao
+
+- over-collateralized stable coin and liquidity staking are successful model
+tried-and-true by MakerDAO:
+	* increased capital efficiency: Capital are not "dead/frozen" once put down
+	and still can be utilized in other DeFi protocols to maximize yield
+	* mechanisms to ensure the health of the pool, liquidity and stability
+		+ destable coin, liquidation in dutch auction
+
+## Destable coin:
+
+- stablecoin hiện hành: fiat-backed / sử dụng thuật toán mà không có backing
+	* 3 vấn đề của stablecoin
+	* thuật toán không theo kịp thị trường dẫn đến mất giá của holder
+	* fiat-backed -> centralisation 	 
+- "decentralised stable coin": thế chấp bởi tài sản phi tập chung
+- Giữ giá bằng CDP, Liquidity staking, DEX, cho phép biến động nhỏ như tiền tệ truyền thống
+
+# How:
 
 - Destable coin lisUSD : [click me](https://github.com/lacklusterer/lsD-rsch/blob/main/README.md#destable-coin)
 - Price stability: [click me](https://github.com/lacklusterer/lsD-rsch/blob/main/README.md#lisusd-price-stability) (minor, maybe only need to talk about and don't need dedicated slide)
@@ -29,15 +47,6 @@ r0 = 8%, Price(lisUSD) = $0.98, Beta = 2%
 r = 8% * exp[(1 - 0.98)/2%] = 21.746% 
 
 This means if the price of lisUSD is $0.98, with  r0 = 8%  and Beta = 2% , the current borrowing rate will be 21.746%. Users will repay (burn) lisUSD, reducing the supply.
-
-# why lista dao
-
-- over-collateralized stable coin and liquidity staking are successful model
-tried-and-true by MakerDAO:
-	* increased capital efficiency: Capital are not "dead/frozen" once put down
-	and still can be utilized in other DeFi protocols to maximize yield
-	* mechanisms to ensure the health of the pool, liquidity and stability
-		+ destable coin, liquidation in dutch auction
 
 - [This space is for section "Participating entities incentives"]
 
